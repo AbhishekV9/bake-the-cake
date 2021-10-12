@@ -2,7 +2,7 @@
 function cake (props){
     console.log(props)
     return(
-        <div className="">
+        <div >
             <div className="box-0 ms-4"></div>
             <div className="box-1 ms-3"></div> 
             <div className="box-2 ms-2"></div>
