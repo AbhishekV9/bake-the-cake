@@ -8,6 +8,7 @@ function App() {
       <div className="container-fluid d-flex justify-content-between">
           <Cake id={1}/>
           <Cake id={2}/>
+          <Cake id={3}/>
       </div>
     </div>
   );
