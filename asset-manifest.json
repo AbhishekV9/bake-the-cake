@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bake-the-cake/static/css/main.de748674.chunk.css",
+    "main.js": "/bake-the-cake/static/js/main.2afe9811.chunk.js",
+    "main.js.map": "/bake-the-cake/static/js/main.2afe9811.chunk.js.map",
+    "runtime-main.js": "/bake-the-cake/static/js/runtime-main.cc67e517.js",
+    "runtime-main.js.map": "/bake-the-cake/static/js/runtime-main.cc67e517.js.map",
+    "static/css/2.c1256375.chunk.css": "/bake-the-cake/static/css/2.c1256375.chunk.css",
+    "static/js/2.b59e7895.chunk.js": "/bake-the-cake/static/js/2.b59e7895.chunk.js",
+    "static/js/2.b59e7895.chunk.js.map": "/bake-the-cake/static/js/2.b59e7895.chunk.js.map",
+    "index.html": "/bake-the-cake/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/bake-the-cake/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.de748674.chunk.css.map": "/bake-the-cake/static/css/main.de748674.chunk.css.map",
+    "static/js/2.b59e7895.chunk.js.LICENSE.txt": "/bake-the-cake/static/js/2.b59e7895.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc67e517.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.b59e7895.chunk.js",
+    "static/css/main.de748674.chunk.css",
+    "static/js/main.2afe9811.chunk.js"
+  ]
+}
